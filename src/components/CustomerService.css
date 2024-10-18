@@ -1,0 +1,13 @@
+* ::backdrop,
+*::after {
+  box-sizing: border-box;
+}
+
+.home {
+  width: 50%;
+  height: 50%;
+  text-align: left;
+}
+.text {
+  text-align: center;
+}
